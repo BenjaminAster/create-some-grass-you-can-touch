@@ -1,0 +1,20 @@
+{
+	"name": "create-some-grass-you-can-touch",
+	"version": "0.0.6",
+	"description": "create-some-grass-you-can-touch",
+	"dependencies": {},
+	"author": "Benjamin Aster",
+	"license": "WTFPL",
+	"type": "module",
+	"bin": {
+		"create-some-grass-you-can-touch": "./index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BenjaminAster/create-some-grass-you-can-touch.git"
+	},
+	"bugs": {
+		"url": "https://github.com/BenjaminAster/create-some-grass-you-can-touch/issues"
+	},
+	"homepage": "https://github.com/BenjaminAster/create-some-grass-you-can-touch#readme"
+}
